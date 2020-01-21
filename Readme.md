@@ -31,4 +31,14 @@
 - Setting up a github repository : https://github.com/lukasmeessen/Praktikum.git
 
 ### Project on Calliope
+- PaperScissorRockVsKi:
+	-learned the differenz between while and for loops  
+	- made a random ki
+	-if else practasing 
+	improving level design
 
+
+- PaperScissorRockPvP.hex:
+	- implemented two player version
+	- learned about functions
+	-learned something about events
